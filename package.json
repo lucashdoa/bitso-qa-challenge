@@ -1,0 +1,23 @@
+{
+  "name": "bitso-qa-challenge",
+  "version": "1.0.0",
+  "description": "💰 Take home test for a QA position at Bitso.",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashdoa/bitso-qa-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashdoa/bitso-qa-challenge/issues"
+  },
+  "homepage": "https://github.com/lucashdoa/bitso-qa-challenge#readme"
+}
