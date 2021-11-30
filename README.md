@@ -27,3 +27,9 @@ Remeber: Sensitive data shouldn't be versioned, so be sure not to commit your ch
 ```
 
 3️⃣ Open Cypress Test Runner
+
+Since there are some security checks at the staging environment like authorizing a new browser, it's not possible to run this automation in headless mode. To open the test runner run the following command:
+
+```
+npm test
+```
